@@ -1,4 +1,3 @@
-*ArtGaming City
-ArtGaming City:avatar-prod.ayomabar.com:19126
-*Sunny Town Indonesia
-Kota Penuh Cahaya:srv-id.stown.me:30130
+*Server Indonesia
+Kota Art Gaming:avatar-prod.ayomabar.com:19126
+Kota Sunny ID:srv-id.stown.me:30130
